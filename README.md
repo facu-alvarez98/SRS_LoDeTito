@@ -25,8 +25,8 @@ El sistema está diseñado para informatizar procesos clave en una rotisería, c
    - Responsable de stock.  
    - Delivery.
 ## 🤝Equipo de trabajo
-   .Facundo Alvarez
-   .Cristian López
-   .Dario Cruz
-   .Emiliano Truyen
+   Facundo Alvarez
+   , Cristian López
+   , Dario Cruz
+   y Emiliano Truyen
 
