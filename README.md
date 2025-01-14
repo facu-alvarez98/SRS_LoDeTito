@@ -23,5 +23,10 @@ El sistema está diseñado para informatizar procesos clave en una rotisería, c
    - Telefonista.  
    - Responsable de cocina.  
    - Responsable de stock.  
-   - Delivery.  
+   - Delivery.
+## 🤝Equipo de trabajo
+   .Facundo Alvarez
+   .Cristian López
+   .Dario Cruz
+   .Emiliano Truyen
 
